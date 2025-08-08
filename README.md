@@ -1,9 +1,14 @@
+<p align="center">
+  <img src="https://i.postimg.cc/0NQ2RQbc/developer-cooking-wide.gif" width="800" alt="developer cooking gif">
+</p>
+
 <h1 align="center">Yo 👋, I'm Bouabdelli Maroua Amira</h1>
 <h3 align="center">A passionate computer science student from Algeria, focusing now on Front-end development</h3>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@amiramii?theme=rule34" alt="counter" />
 </p>
+
 ---
 
 - 🌱 I’m currently learning **Next.js, Redux**
