@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Next.js, Redux**
+- 🌱 I’m currently learning **Next.js, Redux,Framer Motion**
 - 📫 How to reach me **ma.bouabdelli76@gmail.com**
 - ⚡ Fun fact **I'm a weirdo**
 
