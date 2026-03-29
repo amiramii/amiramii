@@ -46,6 +46,5 @@
 </p>
 
 ---
-
-![Amira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiramii&show_icons=true&count_private=true&theme=default)
+![Amira's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiramii&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiramii&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
