@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Next.js, Redux,Framer Motion**
+- 🌱 I’m currently learning **AI and Quantum computing**
 - 📫 How to reach me **ma.bouabdelli76@gmail.com**
 - ⚡ Fun fact **I'm a weirdo**
 
